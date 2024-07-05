@@ -21,7 +21,7 @@ Unity Platformer — это 2D платформер, созданный на Uni
 
 1. Клонируйте репозиторий:
     ```bash
-    git clone https://github.com/Delloon/unity-platformer.git
+    git clone https://github.com/Delloon/UnityPlatformer.git
     ```
 
 2. Откройте проект в Unity:
